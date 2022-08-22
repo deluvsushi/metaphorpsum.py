@@ -1,6 +1,6 @@
 from requests import get
 
-class MetaPhorpSum:
+class MetaphorpSum:
 	def __init__(self):
 		self.api = "https://metaphorpsum.com/"
 		self.headers = {
